@@ -1,0 +1,11 @@
+C:\VSprojects\ContactManagerSRFN\obj\Debug\ContactManagerSRFN.csprojAssemblyReference.cache
+C:\VSprojects\ContactManagerSRFN\obj\Debug\ContactManagerSRFN.Login.resources
+C:\VSprojects\ContactManagerSRFN\obj\Debug\ContactManagerSRFN.Properties.Resources.resources
+C:\VSprojects\ContactManagerSRFN\obj\Debug\ContactManagerSRFN.csproj.GenerateResource.cache
+C:\VSprojects\ContactManagerSRFN\obj\Debug\ContactManagerSRFN.csproj.CoreCompileInputs.cache
+C:\VSprojects\ContactManagerSRFN\bin\Debug\ContactManagerSRFN.exe.config
+C:\VSprojects\ContactManagerSRFN\bin\Debug\ContactManagerSRFN.exe
+C:\VSprojects\ContactManagerSRFN\bin\Debug\ContactManagerSRFN.pdb
+C:\VSprojects\ContactManagerSRFN\obj\Debug\ContactManagerSRFN.exe
+C:\VSprojects\ContactManagerSRFN\obj\Debug\ContactManagerSRFN.pdb
+C:\VSprojects\ContactManagerSRFN\obj\Debug\ContactManagerSRFN.Main.resources
