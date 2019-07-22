@@ -9,3 +9,14 @@ C:\VSprojects\ContactManagerSRFN\bin\Debug\ContactManagerSRFN.pdb
 C:\VSprojects\ContactManagerSRFN\obj\Debug\ContactManagerSRFN.exe
 C:\VSprojects\ContactManagerSRFN\obj\Debug\ContactManagerSRFN.pdb
 C:\VSprojects\ContactManagerSRFN\obj\Debug\ContactManagerSRFN.Main.resources
+C:\VSRepositories\ManageContactsSRFN\bin\Debug\ContactManagerSRFN.exe.config
+C:\VSRepositories\ManageContactsSRFN\bin\Debug\ContactManagerSRFN.exe
+C:\VSRepositories\ManageContactsSRFN\bin\Debug\ContactManagerSRFN.pdb
+C:\VSRepositories\ManageContactsSRFN\obj\Debug\ContactManagerSRFN.csprojAssemblyReference.cache
+C:\VSRepositories\ManageContactsSRFN\obj\Debug\ContactManagerSRFN.Login.resources
+C:\VSRepositories\ManageContactsSRFN\obj\Debug\ContactManagerSRFN.Main.resources
+C:\VSRepositories\ManageContactsSRFN\obj\Debug\ContactManagerSRFN.Properties.Resources.resources
+C:\VSRepositories\ManageContactsSRFN\obj\Debug\ContactManagerSRFN.csproj.GenerateResource.cache
+C:\VSRepositories\ManageContactsSRFN\obj\Debug\ContactManagerSRFN.csproj.CoreCompileInputs.cache
+C:\VSRepositories\ManageContactsSRFN\obj\Debug\ContactManagerSRFN.exe
+C:\VSRepositories\ManageContactsSRFN\obj\Debug\ContactManagerSRFN.pdb
