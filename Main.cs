@@ -21,6 +21,7 @@ namespace ContactManagerSRFN
                 "Password = 19771977; ";
         private SqlConnection miconex;
 
+
         public Main(myInfo infoFromLogin)
         {
             InitializeComponent();
